@@ -1,0 +1,16 @@
+<resources>
+    <string name= "app_name">GeoQuiz</string>
+    <string name= "true_button">True</string>
+    <string name= "false_button">False</string>
+    <string name= "toast_correct">Correct</string>
+    <string name= "toast_incorrect">Incorrect</string>
+    <string name= "question_5">Canberra is a capital of Australia</string>
+    <string name= "question_0">Koltin Android 01 was the first course that was launched in Dammam</string>
+    <string name= "question_1">The Pacific Ocean is larger than Atlantic Ocean</string>
+    <string name= "question_2">The Sues canal connect the red sea and the Indian Ocean</string>
+    <string name= "question_3">The Amazon river is the longest river in America</string>
+    <string name= "question_4">Lake Baikal is the world\'s largest lake</string>
+    <string name= "next_button">Next</string>
+
+
+</resources>
